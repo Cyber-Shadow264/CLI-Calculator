@@ -28,8 +28,8 @@ This calculator can perform **Addition, Subtraction, Multiplication, and Divisio
 
 
 2. Go to the project folder:
-
-cd CLI-Calculator
+   ```bash
+   cd CLI-Calculator
 
 
 3. Run the calculator:
