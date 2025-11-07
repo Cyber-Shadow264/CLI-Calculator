@@ -24,8 +24,8 @@ This calculator can perform **Addition, Subtraction, Multiplication, and Divisio
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Cyber-Shadow264/CLI-Calculator.git
-
+   
+   https://github.com/Cyber-Shadow264/CLI-Calculator.git
 
 2. Go to the project folder:
    ```bash
