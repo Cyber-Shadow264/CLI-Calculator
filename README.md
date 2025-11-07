@@ -33,8 +33,8 @@ This calculator can perform **Addition, Subtraction, Multiplication, and Divisio
 
 
 3. Run the calculator:
-
-python run.py
+   ```bash
+   python run.py
 
 
 
